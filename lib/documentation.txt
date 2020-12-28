@@ -1,0 +1,2 @@
+setState() ==> when called updates the value of something for e.g a variable, and it changes the value of variable everywhere that it is being used and then calls the build function within that widget.
+when the build function is called, it re-draws the widget with the newly updated changes, so that the user sees it almost immediately
